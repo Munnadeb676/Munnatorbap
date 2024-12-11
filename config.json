@@ -35,16 +35,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545"
+    "100004194914980"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100071880593545"
+      "100004194914980"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
+  "nickNameBot": "Froggy-Bot",
   "prefix": "/",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
@@ -171,7 +171,7 @@
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "7271330272945067"
+      "100004194914980"
     ],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
