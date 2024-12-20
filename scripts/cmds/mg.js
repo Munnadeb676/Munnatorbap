@@ -8,7 +8,7 @@ if (Buffer.from(encodedAuthor, 'base64').toString('utf-8') !== 'SiamTheFrog') {
     throw new Error("Don't change author randi.");
 }
 
-const ownerUID = '100038488271414'; // Add your uid
+const ownerUID = '61554779043032'; // Add your uid
 let ignoredUIDs = [];
 let adminList = [];
 
